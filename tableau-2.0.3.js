@@ -8447,6 +8447,7 @@ var tab = global.tab;
 	})();
 })();
 
+tableauSoftware = global.tableauSoftware;
 tableauSoftware.Promise = tab._PromiseImpl;
 tab._Deferred = tab._DeferredImpl;
 tab._Collection = tab._CollectionImpl;
