@@ -6,5 +6,5 @@
     "type": "git",
     "url": "https://github.com/harrybook/tableau-api.git"
   },
-  "main": "tableau-2.0.3.min.js"
+  "main": "tableau-2.0.3.js"
 }
