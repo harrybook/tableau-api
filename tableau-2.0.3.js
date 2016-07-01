@@ -5882,7 +5882,7 @@ var tab = global.tab;
 			}
 			url.push(':embed=y');
 			url.push('&:showVizHome=n');
-			url.push('&:jsdebug=y');
+			//url.push('&:jsdebug=y');
 			if (!this.fixedSize) {
 				url.push('&:bootstrapWhenNotified=y');
 			}
